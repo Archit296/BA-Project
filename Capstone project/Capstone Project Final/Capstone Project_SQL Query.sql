@@ -1,0 +1,1 @@
+select distinct(product) from cap_proj.csv_data where Year = "2014" and Country = "Canada";
